@@ -38,4 +38,4 @@ Let's have a look at the step-by-step implementation:
 <p align="center"><img width="80%" src="https://user-images.githubusercontent.com/69134468/127794809-134071ad-f607-45c1-815e-301b0bb961f4.gif"></p>
 
 ### Output #2:
-<p align="center"><img width="20%" src="https://user-images.githubusercontent.com/69134468/127794951-3a0aea84-2162-49e0-9387-8987e0bd35d9.jpg"> <img width="20%" src="https://user-images.githubusercontent.com/69134468/127794984-3305be55-c41b-46bd-9ee3-24acfbc002ed.png"></p>
+<p align="center"><img width="20%" src="https://user-images.githubusercontent.com/69134468/127794951-3a0aea84-2162-49e0-9387-8987e0bd35d9.jpg"> <img width="20.3%" src="https://user-images.githubusercontent.com/69134468/127794984-3305be55-c41b-46bd-9ee3-24acfbc002ed.png"></p>
